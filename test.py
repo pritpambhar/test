@@ -1,4 +1,4 @@
-import mysql.connector as mc
+'''import mysql.connector as mc
 try:
 
 	mydb=mc.connect(
@@ -19,5 +19,6 @@ try:
 
 except:
 	print("error");
-#print(mydb)
-
+print(mydb)
+'''
+print("hello");
